@@ -1,0 +1,8 @@
+[package]
+name = "rust_dojo"
+version = "0.1.0"
+authors = ["bungcip@github.com"]
+
+[[bin]]
+name = "binary"
+path = "3-custom-typez/3-1-structs.rs"
