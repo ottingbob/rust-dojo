@@ -1,0 +1,4 @@
+rust.sh
+lib10_1_lib.rlib
+Cargo.lock
+target/**
